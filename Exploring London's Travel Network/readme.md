@@ -1,0 +1,3 @@
+How do Londoners get around? Transport for London (TfL) is an extensive public transport network that allows Londoners to travel around the UK's capital efficiently, with over 1.5 million journeys per day!
+
+In this project, we worked with an **Amazon Redshift database** containing travel data and types of transport in London between 2010 and 2022. **SQL queries** were written to find the most popular transport methods, check when the Emirates airline Cable Car (which connects London's Royal Docks, places the Mayor's office is located, to the Greenwich Peninsula, location of the O2 arena) is very busy, and identifies a rare period when the Underground (also known as "the tube" to locals) is less busy.
